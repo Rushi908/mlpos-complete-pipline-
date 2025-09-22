@@ -1,0 +1,10 @@
+2025-09-22 15:37:53,660 - data_preprocessing - DEBUG - Data loaded properly
+2025-09-22 15:37:53,660 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-09-22 15:37:53,662 - data_preprocessing - DEBUG - Target column encoded
+2025-09-22 15:37:53,668 - data_preprocessing - DEBUG - Duplicates removed
+2025-09-22 15:38:01,371 - data_preprocessing - DEBUG - Text column transformed
+2025-09-22 15:38:01,371 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-09-22 15:38:01,372 - data_preprocessing - DEBUG - Target column encoded
+2025-09-22 15:38:01,373 - data_preprocessing - DEBUG - Duplicates removed
+2025-09-22 15:38:03,591 - data_preprocessing - DEBUG - Text column transformed
+2025-09-22 15:38:03,602 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
